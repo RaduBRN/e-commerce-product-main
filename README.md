@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor](https://your-solution-url.com)
-- Live Site URL: [netlify](https://your-live-site-url.com)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/responsive-e-commerce-product-page-qDKPtEey47)
+- Live Site URL: [netlify](https://lucent-dasik-7e5ca9.netlify.app/)
 
 ### Built with
 
